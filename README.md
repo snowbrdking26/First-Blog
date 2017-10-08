@@ -1,5 +1,5 @@
-# First-Website
+# First-Blog
 
-Check out my first website:
+Check out my first blog:
 
-https://snowbrdking26.github.io/First-Website/WebsitePK.html
+https://snowbrdking26.github.io/First-Blog/BlogPK.html
